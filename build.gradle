@@ -114,7 +114,7 @@ bintray {
         name = 'spring-gradle'
         userOrg = user
         licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/prasenjit-net/spring-gradle.git'
+        vcsUrl = 'https://github.com/identityOrg/spring-gradle.git'
         publicDownloadNumbers = true
         version {
             name = "${projectVersion}"
