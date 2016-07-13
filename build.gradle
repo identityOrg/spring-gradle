@@ -123,3 +123,6 @@ bintray {
         }
     }
 }
+
+bintrayUpload.dependsOn build
+publish.dependsOn bintrayUpload
